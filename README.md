@@ -3,4 +3,4 @@
 >
 </p>
 <p align="center">
-I have an inconsistent style sorry chat
+inconsistent style
