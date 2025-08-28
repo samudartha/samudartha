@@ -1,5 +1,6 @@
 <p align="center">
-    <img width="400" src="https://c.tenor.com/vkxUaFFyeokAAAAd/tenor.gif" alt="gif">
+    <img width="374" height="210" alt="image" src="https://github.com/user-attachments/assets/d7559c48-3001-4d04-8259-010d7853f0ce" /
+>
 </p>
 <p align="center">
 I have an inconsistent style sorry chat
